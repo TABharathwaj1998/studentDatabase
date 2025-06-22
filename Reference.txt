@@ -1,0 +1,2 @@
+https://medium.com/@nikovrdoljak/deploy-your-flask-app-on-azure-in-3-easy-steps-b2fe388a589e
+https://learn.microsoft.com/en-us/azure/app-service/configure-language-python#customize-startup-command
